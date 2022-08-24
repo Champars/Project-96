@@ -1,0 +1,25 @@
+body {
+    background-color: floralwhite;
+}
+
+footer {
+    align-items: center;
+}
+
+.align {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.main {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.div {
+    text-align: center;
+}
